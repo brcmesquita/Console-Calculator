@@ -1,0 +1,16 @@
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+D:\Workspaces\www\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.csprojAssemblyReference.cache
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\Workspaces\www\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
